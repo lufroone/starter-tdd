@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "test": "ts-node node_modules/tape/bin/tape *.test.ts | tap-spec"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
