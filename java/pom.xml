@@ -31,8 +31,8 @@
         <version>3.10.1</version>
         <configuration>
           <encoding>UTF-8</encoding>
-          <source>8</source>
-          <target>8</target>
+          <source>23</source>
+          <target>23</target>
         </configuration>
       </plugin>
     </plugins>
